@@ -1,10 +1,4 @@
 # MiniBlog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
+Este site conta com validação de usuários para criação e edição de publicações. O seu banco de dados foi construído utilizando o Firebase.
+Aproveite as publicações já existentes, assim como não se esqueça de fazer o seu cadastro! =)
