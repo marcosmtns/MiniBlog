@@ -40,7 +40,7 @@ function App() {
   }, [auth])
 
   if(loadingUser) {
-    return <p>Carregando...</p>
+    return <p>Carregando... </p>
   }
 
   return (
