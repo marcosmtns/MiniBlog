@@ -31,7 +31,7 @@ const Home = () => {
           <button className="btn btn-dark">Pesquisar</button>
         </form>
         <div>
-          {loading && <p>Carregando...</p>}
+          {loading && <p>Carregando...  </p>}
           {posts && posts.map((post) => <PostDetail key={post.id} post={post}/> )}
           {posts && posts.length === 0 && (
             <div className={styles.noposts}>
